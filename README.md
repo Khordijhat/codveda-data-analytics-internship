@@ -37,7 +37,7 @@ codveda-data-analytics-internship/
     ├── codveda_level2.ipynb
     ├── sentiment.csv
     └── stock_prices.csv
-
+```
 ## Data
 The datasets were provided by Codveda as part of the internship.
 - `sentiment.csv`: social media posts with sentiment, hashtags, likes, retweets, and timestamps
