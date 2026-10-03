@@ -33,28 +33,10 @@ Python · pandas · NumPy · Matplotlib · scikit-learn · statsmodels · Jupyte
 ```
 codveda-data-analytics-internship/
 ├── README.md
-├── requirements.txt
 └── level-2/
     ├── codveda_level2.ipynb
     ├── sentiment.csv
     └── stock_prices.csv
-```
-
-## How to Run
-1. Clone the repository:
-```bash
-   git clone https://github.com/Khordijhat/codveda-data-analytics-internship.git
-   cd codveda-data-analytics-internship/level-2
-```
-2. Install the dependencies:
-```bash
-   pip install -r ../requirements.txt
-```
-3. Make sure the dataset files are in the same folder as the notebook (see below).
-4. Open the notebook:
-```bash
-   jupyter notebook codveda_level2.ipynb
-```
 
 ## Data
 The datasets were provided by Codveda as part of the internship.
